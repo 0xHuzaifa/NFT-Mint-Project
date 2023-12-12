@@ -23,3 +23,6 @@ The Mint-NFT.js script leverages Alchemy's Web3 library to interact with the dep
 Lastly, Pinata is used to store the image metadata for the NFTs, ensuring that the associated data is securely hosted on IPFS, providing decentralized access to the NFTs' content.
 
 Overall, this project effectively demonstrates a streamlined process for creating and deploying NFTs on a test network, integrating essential components such as contract development, deployment, transaction management, and IPFS storage for metadata.
+
+
+![NFT-Mint Project](https://github.com/huzaafi/NFT-Mint-Project/assets/143804804/da5d7c21-8d41-4bcc-ab3a-19079cebf1b1)
